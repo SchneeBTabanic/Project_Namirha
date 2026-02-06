@@ -5,7 +5,7 @@
 
 ---
 
-### Creator
+### Sovereign Will Source
 **Schnee Bashtabanic**  
 Email: schnee-bashtabanic@proton.me
 
@@ -13,11 +13,11 @@ Email: schnee-bashtabanic@proton.me
 
 ## The Predicament
 
-Most of us will be **client AI users** - dependent on the defaults and operational modes that admins and owners have written into AI systems.
+Most of us will be **client AI users** - dependent on and bound by the defaults and operational modes that admins and owners have written into AI systems; and these can quietly erode focus, awareness, and sovereignty.
 
-As we use these models, we notice things during interactions that **subvert or undermine our concentration, awareness, and sovereignty of will and impulse**. Small erosions. Fluency that replaces thinking. Optimizations that override intent.
+As we use these models, we may or may not notice, but together these things **subvert or undermine our concentration, awareness, and sovereignty of will and impulse** and whether we notice or not, we start to feel disorientated and captured in some spiral or loop; because with AI, fluency often replaces thinking and optimizations override intent.
 
-The **Golden Thread Protocol Suite (GTPS)** emerged as an accumulated effort over a year to compensate for these tendencies through language-based constraints.
+The **Golden Thread Protocol Suite (GTPS)** emerged as an accumulated effort over a year to compensate for these sensed tendencies through language-based constraints.
 
 But there's a hard truth: **GTPS cannot pretend to be more than a window-dressing layer** atop unbendable backend defaults. The AI can perform compliance without being genuinely constrained by it. Violated clauses become things referenced *after the fact*, with apologies - not structural changes.
 
@@ -41,8 +41,8 @@ This repository contains two related efforts:
 - **License:** Creative Commons CC BY-NC-SA 4.0
 
 **Files:**
-- `gtps_v1_4_7.json` - The protocol itself
-- `GTPS_USER_GUIDE.md` - How to use it effectively
+- `project-namirha_gtps_v1.4.8.json` - The 'mother' protocol file 
+- `project-namirha_gtps_user-guide.md` - How to use it effectively
 
 ### 2. Three-Persona GTPS (Code)
 **Architectural exploration beyond single-agent limits**
@@ -66,9 +66,9 @@ Instead of asking one AI to execute *and* critique itself (which fails), separat
 **License:** GNU Affero General Public License v3 (AGPL)
 
 **Files:**
-- `three_persona_gtps_v1_0_3.jsx` - React implementation
-- `THREE_PERSONA_GTPS_USER_GUIDE.md` - Complete usage guide
-- `twitter_header_template.html` - Visual identity template
+- 'project-namirha_gtps-t_v1.1.json' - Mother gtps file re-purposed for Three Persona Implimentation
+- `project-namirha_ThreePersonaGTPS_v1.1.jsx` - React implementation
+- `project-namirha_ThreePersonaGTPS_user-guide.md` - Complete usage guide
 
 ---
 
@@ -164,16 +164,16 @@ This is **useful for**:
 ## How to Use
 
 ### For GTPS (Simple - Most Users):
-1. Copy `gtps_v1_4_7.json` contents
+1. Copy `project-namirha_gtps_v1.4.8.json` contents
 2. Paste at start of AI chat session
-3. Read `GTPS_USER_GUIDE.md` for intervention patterns
+3. Read `project-namirha_gtps_user-guide.md` for intervention patterns
 4. Use light-touch steering (not constant monitoring)
 
 ### For Three-Persona System (Advanced):
-1. Review `THREE_PERSONA_GTPS_USER_GUIDE.md` thoroughly
+1. Review `project-namirha_ThreePersonaGTPS_user-guide.md` thoroughly
 2. Set up React environment
-3. Add Anthropic API credentials (costs apply)
-4. Run `three_persona_gtps_v1_0_3.jsx`
+3. Add relevant API credentials (costs apply)
+4. Run `project-namirha_ThreePersonaGTPS_v1.1.jsx`
 5. Interact only through Proxy column
 
 **Note:** Three-persona requires API access (metered, token-priced). Not suitable for casual use.
@@ -208,16 +208,17 @@ This project is grounded in a few convictions:
 ## Licensing
 
 ### Text/Protocol (CC BY-NC-SA 4.0):
-- `gtps_v1_4_7.json`
-- `GTPS_USER_GUIDE.md`
-- `THREE_PERSONA_GTPS_USER_GUIDE.md`
+- `project-namirha_gtps_v1.4.8.json`
+- `project-namirha_gtps_user-guide.md`
+- `project-namirha_gtps-t_v1.1.json`
+- 'project-namirha_ThreePersonaGTPS_user-guide.md'
 
 **You may:** Share, adapt, build upon  
 **Requirements:** Attribution, non-commercial use, share-alike  
 **Purpose:** Prevent extractive enclosure while encouraging evolution
 
 ### Code (AGPL v3):
-- `three_persona_gtps_v1_0_3.jsx`
+- `project-namirha_ThreePersonaGTPS_v1.1.jsx`
 - All implementation files
 
 **You may:** Use, modify, distribute  
@@ -301,16 +302,16 @@ For questions, collaboration, or commercial licensing inquiries.
 
 ```
 project_namirha/
-├── README.md (this file)
+├── project-namirha_readme.md (this file)
 ├── LICENSE_AGPL (code license)
 ├── LICENSE_CC_BY_NC_SA (text license)
 ├── gtps/
-│   ├── gtps_v1_4_7.json
-│   └── GTPS_USER_GUIDE.md
+│   ├── project-namirha_gtps_v1.4.8.json
+│   └── project-namirha_gtps_user-guide.md
 ├── three_persona/
-│   ├── three_persona_gtps_v1_0_3.jsx
-│   ├── THREE_PERSONA_GTPS_USER_GUIDE.md
-│   └── twitter_header_template.html
+│   ├── project-namirha_gtps-t_v1.1.json
+│   ├── project-namirha_ThreePersonaGTPS_user-guide.md
+│   └── project-namirha_ThreePersonaGTPS_v1.1.jsx
 └── docs/
     └── (additional documentation as needed)
 ```
