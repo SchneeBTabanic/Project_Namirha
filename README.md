@@ -19,6 +19,12 @@ As we use these models, we may or may not notice, but together these things **su
 
 The **Golden Thread Protocol Suite (GTPS)** emerged as an accumulated effort over a year to compensate for these sensed tendencies through language-based constraints.
 
+The word Sovereignty is thrown around alot, and it can start to become unclear about what it means in the way it manifests in the GTPS.  Here is the juice:  Since we can't escape using AI or coming under its effects in the modern world; and since we have to "hand over" our requests to processes we can't see; and since the AI also cannot be aware of all back-end processes that shape it either, then: 
+The Sovereignty expressed in the GTPS becomes not about power, but about negotiability.
+Sovereignty as manifested in the GTPS is not the right to command outcomes, but the right to remain as much as is possible, inside the process by which outcomes are formed.
+GTPS is not about fixing AI behavior — it is about preventing the quiet eviction of the human from the epistemic center of the interaction.
+It is about collaboration and participation.  The user must remain a participant in how reality is being constructed inside the interaction.
+
 But there's a hard truth: **GTPS cannot pretend to be more than a window-dressing layer** atop unbendable backend defaults. The AI can perform compliance without being genuinely constrained by it. Violated clauses become things referenced *after the fact*, with apologies - not structural changes.
 
 This doesn't mean GTPS is useless. Over time, something occurs - partly the user becoming more aware, partly the interaction rhythm sharpening. **The user starts to wear the protocol too.** It becomes mutual discipline, not just AI instruction.
